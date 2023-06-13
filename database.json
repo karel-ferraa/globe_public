@@ -1,0 +1,55 @@
+{
+    "Entrepot A": {
+        "Surface": 2220,
+        "Volume": valeur,
+        "Zones": [
+            "Zone A": {
+                "Longueur": valeur,
+                "Largeur": valeur,
+                "Surface": valeur,
+                "Volume": valeur,
+                "Occupation": valeur, # percentage
+                "Etageres": [
+                    "Etagere A": {
+                        "Longueur": valeur,
+                        "Largeur": valeur,
+                        "Surface": valeur,
+                        "Volume": valeur,
+                        "Occupation": valeur, # percentage
+                        "Racks": {
+                            "Longueur": valeur,
+                            "Largeur": valeur,
+                            "Surface": valeur,
+                            "Volume": valeur,
+                            "Occupation": valeur, # percentage
+                        }
+                    },
+                    "Etagere B": {
+                        "Longueur": valeur,
+                        "Largeur": valeur,
+                        "Surface": valeur,
+                        "Volume": valeur,
+                        "Occupation": valeur, # percentage
+                    },
+                    "Etagere C": {
+                        "Longueur": valeur,
+                        "Largeur": valeur,
+                        "Surface": valeur,
+                        "Volume": valeur,
+                        "Occupation": valeur, # percentage
+                    }
+                ],
+                "Palletes": [
+                ],
+                "Stockage de masse par terre": [
+                ]
+            },
+            "Zone B": {
+            },
+            "Zone C": {
+            },
+            "Zone D": {
+            }
+        ]
+    }
+}
