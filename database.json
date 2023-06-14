@@ -1,55 +1,1837 @@
 {
-    "Entrepot A": {
-        "Surface": 2220,
-        "Volume": valeur,
-        "Zones": [
-            "Zone A": {
-                "Longueur": valeur,
-                "Largeur": valeur,
-                "Surface": valeur,
-                "Volume": valeur,
-                "Occupation": valeur, # percentage
-                "Etageres": [
-                    "Etagere A": {
-                        "Longueur": valeur,
-                        "Largeur": valeur,
-                        "Surface": valeur,
-                        "Volume": valeur,
-                        "Occupation": valeur, # percentage
-                        "Racks": {
-                            "Longueur": valeur,
-                            "Largeur": valeur,
-                            "Surface": valeur,
-                            "Volume": valeur,
-                            "Occupation": valeur, # percentage
-                        }
-                    },
-                    "Etagere B": {
-                        "Longueur": valeur,
-                        "Largeur": valeur,
-                        "Surface": valeur,
-                        "Volume": valeur,
-                        "Occupation": valeur, # percentage
-                    },
-                    "Etagere C": {
-                        "Longueur": valeur,
-                        "Largeur": valeur,
-                        "Surface": valeur,
-                        "Volume": valeur,
-                        "Occupation": valeur, # percentage
-                    }
-                ],
-                "Palletes": [
-                ],
-                "Stockage de masse par terre": [
-                ]
-            },
-            "Zone B": {
-            },
-            "Zone C": {
-            },
-            "Zone D": {
-            }
-        ]
-    }
+"Entrepot A": {
+	"Surface": 2220,
+	"Volume": valeur,
+	"Occupation": valeur,
+	"Zones": [
+		"Zone A": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"A00": {
+					"type": "stockage pallettes",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de pallettes": 2
+				},
+				"A01": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A02": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A03": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A04": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A05": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A06": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A07": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A08": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A09": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A10": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A11": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A12": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A13": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A14": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A15": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A16": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A17": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A18": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A19": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A20": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A21": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A22": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A23": {
+					"type": "stockage_masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"A8 Placard": {
+					"type": "placard",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				}
+			]
+		},
+		"Zone B": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"B06": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B13": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B15": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B16": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B17": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B18": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B19": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B20": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B21": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B22": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B23": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B24": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B25": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B26": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"B27": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Stockage palletes": {
+					"type": "stockage pallettes",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de pallettes": valeur
+				}
+			]
+		},
+		"Zone C": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"C01": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"C02": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"C03": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"C04": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"C05": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"C06": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"C07": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"C08": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Stockage masse": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de boites": valeur
+				}
+			]
+		},
+		"Zone D": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"D01": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D02": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D03": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D04": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D05": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D06": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D07": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D08": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D09": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D10": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D11": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D12": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D13": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D14": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D15": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D16": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D17": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D18": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D19": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"D20": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				}
+			]
+		},
+		"Zone E": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Reparations": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Stockage pallettes": {
+					"type": "stockage pallettes",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de pallettes": valeur
+				}
+			]
+		},
+		"Zone RST": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Etagere RST direct / RST apres passage": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Etagere Demontage machine / RST garanties / En attente accord": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Stockage pallettes": {
+					"type": "stockage pallettes",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de pallettes": valeur
+				}
+			]
+		},
+		"Zone G01A": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Stockage pallettes": {
+					"type": "stockage pallettes",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de pallettes": valeur
+				}
+			]
+		},
+		"Zone M": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"M01": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M02": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M03": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M04": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M05": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M06": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M07": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M08": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M09": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M10": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M11": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M12": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M13": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M14": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M15": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M16": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M17": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M18": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"M19": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				}
+			]
+		},
+		"Zone N": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"N00": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"N01": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"N02": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"N03": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"N04": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"N05": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"N06": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				}
+			]
+		},
+		"Zone P": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"P00": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de boites": valeur
+				},
+				"P01": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P02": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P03": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P04": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P05": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P06": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P07": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P08": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P09": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P10": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P11": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P12": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P14": {
+					"type": valeur,
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"P15": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				}
+			]
+		},
+		"Zone R": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"R01": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R02": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R03": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R04": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R05": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R06": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R07": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R08": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R09": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R10": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"R12": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				}
+			]
+		},
+		"Zone Q": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Q01": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Q02": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Q03": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Q04": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Q05": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"Q06": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				}
+			]
+		},
+		"Zone L": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"L05": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L06": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L07": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L08": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L09": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L11": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L12": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L13": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L14": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L15": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L16": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L17": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L18": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L19": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L20": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L21": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				},
+				"L22": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+					]
+				}
+			]
+		},
+		"Zone BR1": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Stockage masse": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de boites": valeur
+				}
+			]
+		},
+		"Zone BR2": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Stockage masse": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de boites": valeur
+				}
+			]
+		},
+		"Zone BR3": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Stockage masse": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de boites": valeur
+				}
+			]
+		}
+	]
+}
 }
