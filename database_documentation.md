@@ -1,8 +1,13 @@
+# Definition des termes et attributs
+
 "Occupation": un pourcentage.
-> Un espace de stockage peut avoir comme "type": "etagere simple", "etagere double", "placard", "stockage pallettes" ou "stockage masse"
+
+> Un espace de stockage peut avoir comme "type": "etagere simple", "etagere double", "stockage pallettes" ou "stockage masse"
     - Une "etagere double" est une étagère qui a été séparée en deux allées.
     - Une "etagere simple" est une étagère qui n'a pas été séparée en deux allées
     - Un espace de stockage de masse est un espace ou les objets sont déposés par terre, sans pallette
+
+Quand un espace de stockage sans label a été trouvé, le label suivant lui est assigné: "Sans label *nombre*".
 
 # Erreurs potentielles constatées / éléments à éclairer dans la configuration actuelle de l'entrepôt
 

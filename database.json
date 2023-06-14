@@ -30,6 +30,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A02": {
@@ -41,6 +42,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A03": {
@@ -52,6 +54,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A04": {
@@ -63,6 +66,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A05": {
@@ -74,6 +78,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A06": {
@@ -85,6 +90,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A07": {
@@ -96,6 +102,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A08": {
@@ -107,6 +114,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A09": {
@@ -118,6 +126,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A10": {
@@ -129,6 +138,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A11": {
@@ -140,6 +150,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A12": {
@@ -151,6 +162,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A13": {
@@ -162,6 +174,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A14": {
@@ -173,6 +186,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A15": {
@@ -184,6 +198,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A16": {
@@ -195,6 +210,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A17": {
@@ -206,6 +222,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A18": {
@@ -217,6 +234,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A19": {
@@ -228,6 +246,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A20": {
@@ -239,6 +258,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A21": {
@@ -250,6 +270,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A22": {
@@ -261,6 +282,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A23": {
@@ -272,10 +294,11 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"A8 Placard": {
-					"type": "placard",
+					"type": "etagere simple",
 					"Longueur": valeur,
 					"Largeur": valeur,
 					"Hauteur": valeur,
@@ -283,6 +306,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				}
 			]
@@ -303,6 +327,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B13": {
@@ -314,6 +339,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B15": {
@@ -325,6 +351,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B16": {
@@ -336,6 +363,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B17": {
@@ -347,6 +375,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B18": {
@@ -358,6 +387,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B19": {
@@ -369,6 +399,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B20": {
@@ -380,6 +411,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B21": {
@@ -391,6 +423,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B22": {
@@ -402,6 +435,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B23": {
@@ -413,6 +447,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B24": {
@@ -424,6 +459,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B25": {
@@ -435,6 +471,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B26": {
@@ -446,6 +483,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"B27": {
@@ -457,9 +495,10 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
-				"Stockage palletes": {
+				"Sans label 01": {
 					"type": "stockage pallettes",
 					"Longueur": valeur,
 					"Largeur": valeur,
@@ -487,6 +526,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"C02": {
@@ -498,6 +538,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"C03": {
@@ -509,6 +550,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"C04": {
@@ -520,6 +562,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"C05": {
@@ -531,6 +574,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"C06": {
@@ -542,6 +586,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"C07": {
@@ -553,6 +598,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"C08": {
@@ -564,9 +610,10 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
-				"Stockage masse": {
+				"Sans label 01": {
 					"type": "stockage masse",
 					"Longueur": valeur,
 					"Largeur": valeur,
@@ -574,7 +621,10 @@
 					"Surface": valeur,
 					"Volume": valeur,
 					"Occupation": valeur,
-					"Nombre de boites": valeur
+					"Nombre de boites": valeur,
+					"Racks": [
+						valeur
+					]
 				}
 			]
 		},
@@ -594,6 +644,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D02": {
@@ -605,6 +656,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D03": {
@@ -616,6 +668,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D04": {
@@ -627,6 +680,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D05": {
@@ -638,6 +692,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D06": {
@@ -649,6 +704,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D07": {
@@ -660,6 +716,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D08": {
@@ -671,6 +728,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D09": {
@@ -682,6 +740,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D10": {
@@ -692,7 +751,9 @@
 					"Surface": valeur,
 					"Volume": valeur,
 					"Occupation": valeur,
+					"Nombre de boites": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D11": {
@@ -704,6 +765,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D12": {
@@ -715,6 +777,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D13": {
@@ -726,6 +789,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D14": {
@@ -737,6 +801,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D15": {
@@ -748,6 +813,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D16": {
@@ -759,6 +825,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D17": {
@@ -770,6 +837,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D18": {
@@ -781,6 +849,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D19": {
@@ -792,6 +861,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"D20": {
@@ -802,7 +872,9 @@
 					"Surface": valeur,
 					"Volume": valeur,
 					"Occupation": valeur,
+					"Nombre de boites": valeur,
 					"Racks": [
+						valeur
 					]
 				}
 			]
@@ -823,9 +895,10 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
-				"Stockage pallettes": {
+				"Sans label 01": {
 					"type": "stockage pallettes",
 					"Longueur": valeur,
 					"Largeur": valeur,
@@ -853,6 +926,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"Etagere Demontage machine / RST garanties / En attente accord": {
@@ -864,9 +938,10 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
-				"Stockage pallettes": {
+				"Sans label 01": {
 					"type": "stockage pallettes",
 					"Longueur": valeur,
 					"Largeur": valeur,
@@ -878,14 +953,14 @@
 				}
 			]
 		},
-		"Zone G01A": {
+		"Zone G": {
 			"Longueur": valeur,
 			"Largeur": valeur,
 			"Surface": valeur,
 			"Volume": valeur,
 			"Occupation": valeur,
 			"Espaces de stockage": [
-				"Stockage pallettes": {
+				"Sans label 01": {
 					"type": "stockage pallettes",
 					"Longueur": valeur,
 					"Largeur": valeur,
@@ -913,6 +988,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M02": {
@@ -924,6 +1000,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M03": {
@@ -935,6 +1012,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M04": {
@@ -946,6 +1024,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M05": {
@@ -957,6 +1036,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M06": {
@@ -968,6 +1048,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M07": {
@@ -979,6 +1060,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M08": {
@@ -990,6 +1072,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M09": {
@@ -1001,6 +1084,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M10": {
@@ -1011,7 +1095,9 @@
 					"Surface": valeur,
 					"Volume": valeur,
 					"Occupation": valeur,
+					"Nombre de boites": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M11": {
@@ -1023,6 +1109,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M12": {
@@ -1034,6 +1121,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M13": {
@@ -1045,6 +1133,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M14": {
@@ -1056,6 +1145,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M15": {
@@ -1067,6 +1157,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M16": {
@@ -1078,6 +1169,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M17": {
@@ -1089,6 +1181,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M18": {
@@ -1100,6 +1193,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"M19": {
@@ -1111,6 +1205,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				}
 			]
@@ -1131,6 +1226,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"N01": {
@@ -1142,6 +1238,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"N02": {
@@ -1153,6 +1250,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"N03": {
@@ -1164,6 +1262,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"N04": {
@@ -1175,6 +1274,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"N05": {
@@ -1186,6 +1286,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"N06": {
@@ -1197,6 +1298,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				}
 			]
@@ -1217,6 +1319,9 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Nombre de boites": valeur
+					"Racks": [
+						valeur
+					]
 				},
 				"P01": {
 					"type": "etagere double",
@@ -1227,6 +1332,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P02": {
@@ -1238,6 +1344,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P03": {
@@ -1249,6 +1356,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P04": {
@@ -1260,6 +1368,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P05": {
@@ -1271,6 +1380,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P06": {
@@ -1282,6 +1392,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P07": {
@@ -1293,6 +1404,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P08": {
@@ -1304,6 +1416,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P09": {
@@ -1315,6 +1428,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P10": {
@@ -1326,6 +1440,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P11": {
@@ -1337,6 +1452,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P12": {
@@ -1348,6 +1464,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P14": {
@@ -1359,6 +1476,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"P15": {
@@ -1370,6 +1488,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				}
 			]
@@ -1390,6 +1509,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R02": {
@@ -1401,6 +1521,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R03": {
@@ -1412,6 +1533,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R04": {
@@ -1423,6 +1545,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R05": {
@@ -1434,6 +1557,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R06": {
@@ -1445,6 +1569,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R07": {
@@ -1456,6 +1581,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R08": {
@@ -1467,6 +1593,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R09": {
@@ -1478,6 +1605,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R10": {
@@ -1489,6 +1617,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"R12": {
@@ -1499,7 +1628,9 @@
 					"Surface": valeur,
 					"Volume": valeur,
 					"Occupation": valeur,
+					"Nombre de boites": valeur,
 					"Racks": [
+						valeur
 					]
 				}
 			]
@@ -1520,6 +1651,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"Q02": {
@@ -1531,6 +1663,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"Q03": {
@@ -1542,6 +1675,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"Q04": {
@@ -1553,6 +1687,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"Q05": {
@@ -1564,6 +1699,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"Q06": {
@@ -1575,6 +1711,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				}
 			]
@@ -1595,6 +1732,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L06": {
@@ -1606,6 +1744,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L07": {
@@ -1617,6 +1756,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L08": {
@@ -1628,6 +1768,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L09": {
@@ -1639,6 +1780,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L11": {
@@ -1650,6 +1792,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L12": {
@@ -1661,6 +1804,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L13": {
@@ -1672,6 +1816,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L14": {
@@ -1683,6 +1828,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L15": {
@@ -1694,6 +1840,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L16": {
@@ -1705,6 +1852,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L17": {
@@ -1716,6 +1864,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L18": {
@@ -1727,6 +1876,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L19": {
@@ -1738,6 +1888,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L20": {
@@ -1749,6 +1900,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L21": {
@@ -1760,6 +1912,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				},
 				"L22": {
@@ -1771,6 +1924,7 @@
 					"Volume": valeur,
 					"Occupation": valeur,
 					"Racks": [
+						valeur
 					]
 				}
 			]
@@ -1782,7 +1936,7 @@
 			"Volume": valeur,
 			"Occupation": valeur,
 			"Espaces de stockage": [
-				"Stockage masse": {
+				"Sans label 01": {
 					"type": "stockage masse",
 					"Longueur": valeur,
 					"Largeur": valeur,
@@ -1790,7 +1944,10 @@
 					"Surface": valeur,
 					"Volume": valeur,
 					"Occupation": valeur,
-					"Nombre de boites": valeur
+					"Nombre de boites": valeur,
+					"Racks": [
+						valeur
+					]
 				}
 			]
 		},
@@ -1801,7 +1958,7 @@
 			"Volume": valeur,
 			"Occupation": valeur,
 			"Espaces de stockage": [
-				"Stockage masse": {
+				"Sans label 01": {
 					"type": "stockage masse",
 					"Longueur": valeur,
 					"Largeur": valeur,
@@ -1809,7 +1966,10 @@
 					"Surface": valeur,
 					"Volume": valeur,
 					"Occupation": valeur,
-					"Nombre de boites": valeur
+					"Nombre de boites": valeur,
+					"Racks": [
+						valeur
+					]
 				}
 			]
 		},
@@ -1820,7 +1980,7 @@
 			"Volume": valeur,
 			"Occupation": valeur,
 			"Espaces de stockage": [
-				"Stockage masse": {
+				"Sans label 01": {
 					"type": "stockage masse",
 					"Longueur": valeur,
 					"Largeur": valeur,
@@ -1828,8 +1988,179 @@
 					"Surface": valeur,
 					"Volume": valeur,
 					"Occupation": valeur,
-					"Nombre de boites": valeur
+					"Nombre de boites": valeur,
+					"Racks": [
+						valeur
+					]
 				}
+			]
+		},
+		"Zone AA01": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Sans label 01": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+						valeur
+					]
+				},
+				"Transit": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de boites": valeur,
+					"Racks": [
+						valeur
+					]
+				}
+			]
+		},
+		"Zone AA02": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Sans label 01": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+						valeur
+					]
+				},
+				"Sans label 02": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+						valeur
+					]
+				},
+				"Sans label 03": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+						valeur
+					]
+				}
+			]
+		},
+		"Zone BB": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"BB01": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+						valeur
+					]
+				},
+				"BB02": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+						valeur
+					]
+				},
+				"BB03": {
+					"type": "etagere double",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+						valeur
+					]
+				},
+				"BB04": {
+					"type": "etagere simple",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Racks": [
+						valeur
+					]
+				}
+			]
+		},
+		"Zone Couloir expedition": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				"Sans label 01": {
+					"type": "stockage masse",
+					"Longueur": valeur,
+					"Largeur": valeur,
+					"Hauteur": valeur,
+					"Surface": valeur,
+					"Volume": valeur,
+					"Occupation": valeur,
+					"Nombre de boites": valeur,
+					"Racks": [
+						valeur
+					]
+				}
+			]
+		},
+		"Zone Sous sol": {
+			"Longueur": valeur,
+			"Largeur": valeur,
+			"Surface": valeur,
+			"Volume": valeur,
+			"Occupation": valeur,
+			"Espaces de stockage": [
+				valeur
 			]
 		}
 	]
