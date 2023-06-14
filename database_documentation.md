@@ -1,8 +1,17 @@
+# Note sur les mesures
+
+Les mesures de l'entrepot sont au mètre près.
+Les mesures d'un dépot sont au decimètre près.
+Les mesures d'un espace de stockage sont au decimètre près.
+Les mesures d'un rack et d'un emplacement de stockage sont au centimètre près.
+
+Les mesures du depot A n'ont pas été effectuées avec ces règles de précision, elle seront à refaire si il y a du temps disponible.
+
 # Definition des termes et attributs
 
 "Occupation": un pourcentage.
 
-> Un espace de stockage peut avoir comme "type": "etagere simple", "etagere double", "stockage pallettes" ou "stockage masse"
+> Un espace de stockage peut avoir comme "type": "etagere simple", "etagere double", "placard", "stockage pallettes" ou "stockage masse"
     - Une "etagere double" est une étagère qui a été séparée en deux allées.
     - Une "etagere simple" est une étagère qui n'a pas été séparée en deux allées
     - Un espace de stockage de masse est un espace ou les objets sont déposés par terre, sans pallette
@@ -15,8 +24,9 @@ Constat global: les espaces de stockage de pallettes ne sont que peu souvent num
 
 ## Zone A
 
-Il y a un placard numéroté A8 alors qu'il y a également une étagère numérotée A8.
+Il y a un placard numéroté A8A alors qu'il y a également une étagère numérotée A8.
 Il est indiqué une réserve en A19 alors qu'il y a également une étagère numérotée A19.
+Il y a deux placards non labelisés contre l'etagere A01.
 
 ## Zone B
 
