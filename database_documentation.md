@@ -7,6 +7,8 @@ Les mesures d'un rack et d'un emplacement de stockage sont au centimètre près.
 
 Les mesures du depot A n'ont pas été effectuées avec ces règles de précision, elle seront à refaire si il y a du temps disponible.
 
+La hauteur des espaces de stockage de masse est mesurée avec celle du plus haut carton.
+
 # Definition des termes et attributs
 
 "Occupation": un pourcentage.
@@ -20,18 +22,32 @@ Quand un espace de stockage sans label a été trouvé, le label suivant lui est
 
 # Erreurs potentielles constatées / éléments à éclairer dans la configuration actuelle de l'entrepôt
 
-Constat global: les espaces de stockage de pallettes ne sont que peu souvent numérotées.
-
 ## Zone A
 
 Il y a un placard numéroté A8A alors qu'il y a également une étagère numérotée A8.
-Il est indiqué une réserve en A19 alors qu'il y a également une étagère numérotée A19.
 Il y a deux placards non labelisés contre l'etagere A01.
+
+### Préconisations
+
+Ajouter un marquage au sol pour délimiter l'espace de stockage A23.
+Nommer le placard A8A A24.
+Labelliser les deux placards qui sont posés contre A01.
+Ideallement, il faudrait refaire les labels de façon à ce que les labels se suivent spatialement.
+
+### Plan
+
+Il faut ajouter les murs.
 
 ## Zone B
 
 Les étagères B01...B05 n'existent pas, la première étagère est la B06.
 Les étagères B07...B12 n'existent pas, on passe de la B06 à la B13.
+Les pallettes ne sont pas labellisées.
+
+### Préconisations
+
+Refaire les labels.
+Ajouter des marquages au sol pour labelliser les pallettes.
 
 ## Zone C
 

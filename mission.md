@@ -16,7 +16,10 @@ Ensuite on commence par les depots les plus utilises
 
 Pour le plan, on met pour chaque depot le volume total. Pour chaque espace de stockage, on met seulement le tag.
 
-# Echantillon
+# Ce qu'il reste à faire
 
-Pour les etageres double
+A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir.
 
+# Lessons / découvertes
+
+C'était quoi le nom du logiciel qui fait que de la gestion de stockage? Quelque chose VC à double entrée.
