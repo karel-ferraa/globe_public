@@ -23,3 +23,5 @@ A8A: les racks et emplacements. Le placard est fermé, il faut demander les clé
 # Lessons / découvertes
 
 C'était quoi le nom du logiciel qui fait que de la gestion de stockage? Quelque chose VC à double entrée.
+
+Chez Lautrette, ils creent des bougies qui servent a filtrer l'oxygene dans les hauts fourneaux. Ces bougies sont envoyées pour être dégraissées chez un partenaire, car l'oxygene sous pression s'enflamme et explose avec la graisse. [./Images/bougie_oxygene.jpg]
