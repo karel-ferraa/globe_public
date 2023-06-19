@@ -20,8 +20,22 @@ Pour le plan, on met pour chaque depot le volume total. Pour chaque espace de st
 
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir.
 
+## Plan
+
+Ajouter les murs et augmenter la précision du placement des espaces de stockage.
+Utiliser des assets pour que l'on puisse visuellement distinguer les types d'espaces de stockage.
+
+## Database
+
+Renommer les emplacements de façon à ce que l'on puisse les chercher directement: Emplacement 01 -> A01 voir meme A01A01
+
 # Lessons / découvertes
 
+Couple: Force appliquée.
 C'était quoi le nom du logiciel qui fait que de la gestion de stockage? Quelque chose VC à double entrée.
 
 Chez Lautrette, ils creent des bougies qui servent a filtrer l'oxygene dans les hauts fourneaux. Ces bougies sont envoyées pour être dégraissées chez un partenaire, car l'oxygene sous pression s'enflamme et explose avec la graisse. [./Images/bougie_oxygene.jpg]
+
+Travail des personnes qui étaient dans le bureau avec moi: préparent des visseuses qui sont controlées par des cartes électroniques et qui servent ensuite à automatiser le montage de véhicules chez Opel en Allemagne. Ils montent les cartes électroniques et développent les programmes de vissage.
+Sur la visseuse [./Images/visseuse_electronique.png], on peut voir le réducteur, pièce qui sert à augmenter le couple en baissant les tours par minute. On peut aussi voir le capteur qui rapporte le couple appliqué à la carte éléctronique par le fil. Cela permet de controller que le vissage a bien été effectué. La mesure est transmise en digital car cela permet de detecter les perturbations (par exemple un gros aimant à coté) et d'arreter le cycle en rapportant une erreur plutot que de rapporter une fausse valeur.
+Sur [./Images/boitier_visseuse_electronique.png], chaque visseuse est controllée par une carte qui peut avoir plusieurs programmes de vissage. Toutes les cartes sont ensuite controllées par une carte maitre qui va controller quelles programme de vissage va etre lancer sur chaque visseuse.

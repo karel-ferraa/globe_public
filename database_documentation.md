@@ -7,7 +7,7 @@ Les mesures d'un rack et d'un emplacement de stockage sont au centimètre près.
 
 Les mesures du depot A n'ont pas été effectuées avec ces règles de précision, elle seront à refaire si il y a du temps disponible.
 
-La hauteur des espaces de stockage de masse est mesurée avec celle du plus haut carton.
+La hauteur des espaces de stockage de masse et de pallette à été mesurée avec celle du plus haut carton.
 
 # Definition des termes et attributs
 
@@ -30,24 +30,24 @@ Il y a deux placards non labelisés contre l'etagere A01.
 ### Préconisations
 
 Ajouter un marquage au sol pour délimiter l'espace de stockage A23.
-Nommer le placard A8A A24.
+Renommer le placard A8A: A24.
 Labelliser les deux placards qui sont posés contre A01.
-Ideallement, il faudrait refaire les labels de façon à ce que les labels se suivent spatialement.
-
-### Plan
-
-Il faut ajouter les murs.
+Idéallement, il faudrait refaire les labels de façon à ce que les labels se suivent spatialement.
 
 ## Zone B
 
-Les étagères B01...B05 n'existent pas, la première étagère est la B06.
-Les étagères B07...B12 n'existent pas, on passe de la B06 à la B13.
-Les pallettes ne sont pas labellisées.
+[1] Les étagères B01...B05 n'existent pas, la première étagère est la B06.
+[2] Les étagères B07...B12 n'existent pas, on passe de la B06 à la B13.
+[3] Les pallettes ne sont pas labellisées.
+[4] Des pallettes sont posées devant B15, bloquant l'acces aux étagères.
 
 ### Préconisations
 
-Refaire les labels.
-Ajouter des marquages au sol pour labelliser les pallettes.
+[1,2] Refaire les labels.
+[3] Ajouter des marquages au sol pour labelliser les pallettes. Chaque rangée de pallette devrait etre un rack.
+[4] Enlever cette rangée de pallettes et mettre les boites qui y sont sur les autres rangées.
+
+Il faudrait peut-etre rajouter une planche en B26D02, B26A02, B26B02 et B26C02.
 
 ## Zone C
 
