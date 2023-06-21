@@ -56,7 +56,10 @@ Stockage de masse non labellisé
 
 ## Zone D
 
-Pour l'espace de stockage de masse D20, il y a trois espaces qui correspondent à des racks. Seulement, deux des racks ont le numéro A. On a donc le rack B entouré de deux racks A.
+Pour l'espace de stockage de masse D20, il y a quatres espaces qui correspondent à des racks. Seulement, deux des racks ont le numéro A. On a donc le rack B entouré de deux racks A.
+D10 les racks ne sont pas labellisés.
+D10F cette espace de stockage ce situe devant une porte.
+Les racks des étagères D11 à D19 commencent par le H ou J alors qu'ils devraient commencer par le rack A.
 
 ## Zone E
 

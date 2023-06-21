@@ -18881,252 +18881,7182 @@
 				]
 			},
 			"Zone D": {
-				"Longueur": valeur,
-				"Largeur": valeur,
+				"Longueur": 14.34,
+				"Largeur": 18.43,
 				"Surface": valeur,
 				"Volume": valeur,
 				"Occupation": valeur,
 				"Espaces de stockage": [
 					"D01": {
 						"type": "etagere simple",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.51,
+						"Largeur": 7.45,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.51,
+								"Largeur": 1.00,
+								"Hauteur": 0.68,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.25,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.32,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.51,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.25,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.32,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.51,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.25,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.32,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.51,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.63,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.51,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.63,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.51,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.63,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack G": {
+								"Longueur": 0.51,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.51,
+										"Largeur": 1.00,
+										"Hauteur": 0.63,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D02": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.45,
+						"Largeur": 7.45,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack G": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.44,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D03": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 8.56,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack G": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack H": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D04": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 8.56,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack G": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack H": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D05": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 8.56,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack G": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack H": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D06": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 8.56,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack G": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack H": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.74,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D07": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 8.56,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack G": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack H": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D08": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 8.56,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack G": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack H": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D09": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 8.56,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack G": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack H": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.77,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D10": {
 						"type": "stockage masse",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.89,
+						"Largeur": 13.86,
+						"Hauteur": 1.39,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
-						"Nombre de boites": valeur,
+						"Nombre de boites": 10,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 0.89,
+								"Largeur": 2.22,
+								"Hauteur": 1.39,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							},
+							"Rack B": {
+								"Longueur": 0.89,
+								"Largeur": 2.22,
+								"Hauteur": 1.39,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							},
+							"Rack C": {
+								"Longueur": 0.89,
+								"Largeur": 2.22,
+								"Hauteur": 1.39,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							},
+							"Rack D": {
+								"Longueur": 0.89,
+								"Largeur": 2.22,
+								"Hauteur": 1.39,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							},
+							"Rack E": {
+								"Longueur": 0.89,
+								"Largeur": 2.22,
+								"Hauteur": 1.39,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							},
+							"Rack F": {
+								"Longueur": 0.89,
+								"Largeur": 1.75,
+								"Hauteur": 1.39,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							}
 						]
 					},
 					"D11": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.45,
+						"Largeur": 7.46,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack H": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.45,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack J": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.45,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack K": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.45,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack L": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.45,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack M": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack N": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack P": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D12": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.45,
+						"Largeur": 7.46,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack H": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack J": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack K": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack L": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack M": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack N": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack P": {
+								"Longueur": 0.45,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.23,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 06": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 07": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 08": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 09": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 10": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 11": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.19,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 12": {
+										"Longueur": 0.45,
+										"Largeur": 1.00,
+										"Hauteur": 0.20,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D13": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 7.46,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack J": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.63,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack K": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.63,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack L": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.63,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack M": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.63,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack N": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack P": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.55,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.81,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack Q": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.62,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D14": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 7.46,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack J": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack K": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack L": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack M": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack N": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack P": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack Q": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D15": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 7.46,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack J": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.89,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.49,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack K": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.89,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.49,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack L": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.70,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack M": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.84,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.55,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack N": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack P": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack Q": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.61,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.75,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D16": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 7.46,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack J": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.71,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack K": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack L": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack M": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.72,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack N": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.72,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.31,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 05": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack P": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.72,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack Q": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.72,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D17": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 7.46,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack J": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.72,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack K": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack L": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.72,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack M": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 2.00,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack N": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack P": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.72,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack Q": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.43,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D18": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 7.46,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack J": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack K": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack L": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack M": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack N": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.44,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack P": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 1.44,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack Q": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.66,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.69,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D19": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.70,
+						"Largeur": 7.46,
+						"Hauteur": 2.90,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack J": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack K": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack L": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack M": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack N": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack P": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							},
+							"Rack Q": {
+								"Longueur": 0.70,
+								"Largeur": 1.00,
+								"Hauteur": 2.90,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.65,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.73,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.67,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.70,
+										"Largeur": 1.00,
+										"Hauteur": 0.68,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					},
 					"D20": {
 						"type": "stockage masse",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 13.35,
+						"Largeur": 0.80,
+						"Hauteur": 1.19,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
-						"Nombre de boites": valeur,
+						"Nombre de boites": 44,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 4.11,
+								"Largeur": 0.80,
+								"Hauteur": 1.19,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							},
+							"Rack B": {
+								"Longueur": 3.37,
+								"Largeur": 0.80,
+								"Hauteur": 1.19,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							},
+							"Rack C": {
+								"Longueur": 3.56,
+								"Largeur": 0.80,
+								"Hauteur": 1.19,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							},
+							"Rack D": {
+								"Longueur": 1.50,
+								"Largeur": 0.80,
+								"Hauteur": 1.19,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+								]
+							}
 						]
 					}
 				]
