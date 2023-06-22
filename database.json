@@ -26163,8 +26163,8 @@
 				]
 			},
 			"Zone E": {
-				"Longueur": valeur,
-				"Largeur": valeur,
+				"Longueur": 9.05,
+				"Largeur": 6.8,
 				"Surface": valeur,
 				"Volume": valeur,
 				"Occupation": valeur,
@@ -26194,8 +26194,8 @@
 				]
 			},
 			"Zone RST": {
-				"Longueur": valeur,
-				"Largeur": valeur,
+				"Longueur": 4.95,
+				"Largeur": 5.75,
 				"Surface": valeur,
 				"Volume": valeur,
 				"Occupation": valeur,
