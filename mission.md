@@ -18,7 +18,9 @@ Pour le plan, on met pour chaque depot le volume total. Pour chaque espace de st
 
 # Ce qu'il reste à faire
 
-A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir.
+A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges.
+Ajouter les murs du premier étage.
+Augmenter la précision du plan.
 
 ## Plan
 
