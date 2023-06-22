@@ -26070,9 +26070,9 @@
 				"Espaces de stockage": [
 					"Reparations": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.40,
+						"Largeur": 5.37,
+						"Hauteur": 2.24,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
@@ -26082,13 +26082,13 @@
 					},
 					"Sans label 01": {
 						"type": "stockage pallettes",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 7.29,
+						"Largeur": 6.80,
+						"Hauteur": 1.94,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
-						"Nombre de pallettes": valeur
+						"Nombre de pallettes": 37
 					}
 				]
 			},
@@ -26101,9 +26101,9 @@
 				"Espaces de stockage": [
 					"Etagere RST direct / RST apres passage": {
 						"type": "etagere simple",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.80,
+						"Largeur": 2.68,
+						"Hauteur": 2.24,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
@@ -26113,9 +26113,9 @@
 					},
 					"Etagere Demontage machine / RST garanties / En attente accord": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 0.40,
+						"Largeur": 5.37,
+						"Hauteur": 2.24,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
@@ -26125,32 +26125,32 @@
 					},
 					"Sans label 01": {
 						"type": "stockage pallettes",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 2.92,
+						"Largeur": 4.42,
+						"Hauteur": 1.56,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
-						"Nombre de pallettes": valeur
+						"Nombre de pallettes": 14
 					}
 				]
 			},
 			"Zone G": {
-				"Longueur": valeur,
-				"Largeur": valeur,
+				"Longueur": 3.08,
+				"Largeur": 6.51,
 				"Surface": valeur,
 				"Volume": valeur,
 				"Occupation": valeur,
 				"Espaces de stockage": [
 					"Sans label 01": {
 						"type": "stockage pallettes",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"Longueur": 3.08,
+						"Largeur": 6.51,
+						"Hauteur": 1.99,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
-						"Nombre de pallettes": valeur
+						"Nombre de pallettes": 23
 					}
 				]
 			},
