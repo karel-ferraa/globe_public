@@ -79,7 +79,7 @@ Les étagères L01, L02, L03, L04 n'existent pas, la première étagère est la 
 
 ## Zone M
 
-Rien a signaler
+Il y a un mauvais label M8 en M18J.
 
 ## Zone N
 
