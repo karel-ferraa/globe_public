@@ -22,6 +22,8 @@ A8A: les racks et emplacements. Le placard est fermé, il faut demander les clé
 Ajouter les murs du premier étage.
 Augmenter la précision du plan.
 
+M - Mesurer et ajouter le M10
+
 ## Plan
 
 Ajouter les murs et augmenter la précision du placement des espaces de stockage.
