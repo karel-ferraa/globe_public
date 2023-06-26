@@ -20,9 +20,11 @@ Pour le plan, on met pour chaque depot le volume total. Pour chaque espace de st
 
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges.
 Ajouter les murs du premier étage.
-Augmenter la précision du plan.
+Augmenter la précision du plan: on peut notamment voir des erreurs au niveau du R01, cette etagere devrait etre plus proche du mur.
 
-M - Mesurer et ajouter le M10
+Zone M - Mesurer et ajouter le M10
+
+Envoyer une liste de tous les emplacements et de leurs noms. Cette liste doit etre refactorée avec les préconisations puisque ce seront les étiquettes commandées.
 
 ## Plan
 
