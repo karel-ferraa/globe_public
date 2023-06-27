@@ -8,13 +8,7 @@ Actuellement, les Objets sont rangés par catégorie. Meme problème que pour l'
 
 # Besoins
 
-- Combiens de depots, lesquels, où, leur volume
-Ensuite on commence par les depots les plus utilises
-- Repertorier le nombre, le tag des espaces de stockage
-- Volume, occupation
-- position, plan 2D/3D
-
-Pour le plan, on met pour chaque depot le volume total. Pour chaque espace de stockage, on met seulement le tag.
+Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les emplacements sur le plan. Peut etre utiliser des assets pour les etageres sur le plan, rajouter les escaliers, mieux modeliser l'entrepot avec le toit en pente ect...
 
 # Ce qu'il reste à faire
 
@@ -24,11 +18,13 @@ Augmenter la précision du plan: on peut notamment voir des erreurs au niveau du
 
 Zone M - Mesurer et ajouter le M10
 
-Envoyer une liste de tous les emplacements et de leurs noms. Cette liste doit etre refactorée avec les préconisations puisque ce seront les étiquettes commandées.
+Ajouter les préconisations. Il y a pleins de racks a relabelliser ect...
+En A il faut séparer l'actuel A08A en deux placards. 
 
 ## Plan
 
 Ajouter les murs et augmenter la précision du placement des espaces de stockage.
+Ajouter les racks sur le plan. Cela veut dire qu'il faudra séparer les labels qui ont plusieurs etageres.
 Utiliser des assets pour que l'on puisse visuellement distinguer les types d'espaces de stockage.
 
 ## Database
