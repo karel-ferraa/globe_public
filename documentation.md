@@ -19,4 +19,6 @@ La hauteur des espaces de stockage de masse et de pallette à été mesurée ave
     - Une "etagere simple" est une étagère qui n'a pas été séparée en deux allées
     - Un espace de stockage de masse est un espace ou les objets sont déposés par terre, sans pallette
 
+# Nomage et organisation de la base de données
+
 Quand un espace de stockage sans label a été trouvé, le label suivant lui est assigné: "Sans label *nombre*".

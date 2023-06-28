@@ -6,10 +6,9 @@
 # Zone B
 
 1. Les étagères B01...B05 n'existent pas, la première étagère est la B06.
-2. L'étagère labellisée B06 correspond à deux étagères physiques. Un label devrait correspondre à un seul espace de stockage physique, à un seul meuble par exemple.
-3. Les étagères B07...B12 n'existent pas, on passe de la B06 à la B13.
-4. Les pallettes ne sont pas labellisées.
-5. Des pallettes sont posées devant B15, bloquant l'acces aux étagères.
+2. Les étagères B07...B12 n'existent pas, on passe de la B06 à la B13.
+3. Les pallettes ne sont pas labellisées.
+4. Des pallettes sont posées devant B15, bloquant l'acces aux étagères.
 
 # Zone C
 
@@ -51,8 +50,7 @@ Rien a signaler
 2. Il y a une étagère P11 et un espace de stockage de masse par terre le long du mur également nommé P11, très espacés l'un de l'autre.
 3. Il y a deux étagères nommées P12. Une des étagères a des racks labellisés, pas l'autre.
 4. L'étagère P14 est très loin des autres.
-5. Bien qu'elles soient alignées, il y a deux étagères nommées P02. Même chose pour P03, P04, P05, P06, P07, P08, P09. Un label devrait correspondre à un seul espace de stockage physique, à un seul meuble par exemple.
-6. L'étagère P09 a deux racks physiques nommés E.
+5. L'étagère P09 a deux racks physiques nommés E.
 
 # Zone Q
 
