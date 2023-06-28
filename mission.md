@@ -24,6 +24,8 @@ En A il faut séparer l'actuel A08A en deux placards.
 Séparer les labels qui ont plusieurs etageres en plusieurs entrées, comme ça on peut avoir les valeurs de longueur largeur hauteur plus accurate. Soit ça soit on rentre dans le detail sur le plan avec les racks et les emplacements.
 Régulariser la zone P.
 
+Noter quelles etageres qui sont déplaçables.
+
 ## Plan
 
 Ajouter les murs et augmenter la précision du placement des espaces de stockage.
