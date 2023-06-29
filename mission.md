@@ -10,6 +10,10 @@ Actuellement, les Objets sont rangés par catégorie. Meme problème que pour l'
 
 Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les emplacements sur le plan. Peut etre utiliser des assets pour les etageres sur le plan, rajouter les escaliers, mieux modeliser l'entrepot avec le toit en pente ect...
 
+# Problèmes
+
+Parfois il y a trois représentations différentes. La realité physique, la façon dont c'est labelisé et les préconisations.
+
 # Ce qu'il reste à faire
 
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges.

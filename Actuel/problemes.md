@@ -1,3 +1,8 @@
+# Général
+
+1. Les escabeaux et echelles ne sont assignées à une zone, donc si ils ne sont pas remits à leur place on peut se retrouver avec deux escabeaux dans une zone et aucun dans une autre.
+2. Etant donné que le stockage est fait par catégorie, quand il n'y a plus assez de place dans l'espace de stockage d'une catégorie donnée, des étiquettes fait à la main sont posées pour indiquer qu'il y a de la réserve dans une autre zone.
+
 # Zone A
 
 1. Il y a un placard numéroté A8A alors qu'il y a également une étagère numérotée A8.
@@ -5,8 +10,8 @@
 
 # Zone B
 
-1. Les étagères B01...B05 n'existent pas, la première étagère est la B06.
-2. Les étagères B07...B12 n'existent pas, on passe de la B06 à la B13.
+1. Les labels B01...B05 n'existent pas, le premier label est la B06.
+2. Les labels B07...B12 n'existent pas, on passe du B06 au B13.
 3. Les pallettes ne sont pas labellisées.
 4. Des pallettes sont posées devant B15, bloquant l'acces aux étagères.
 
@@ -34,7 +39,9 @@ Rien a signaler
 
 # Zone L
 
-1. Les étagères L01, L02, L03, L04 n'existent pas, la première étagère est la L05.
+1. Les labels L01, L02, L03, L04 n'existent pas, le premier est le L05.
+2. L10 il y a deux racks physiques mais ils sont tout deux labellisés A.
+3. L09 il y a deux racks physiques mais ils sont tout deux labellisés A.
 
 # Zone M
 
@@ -46,7 +53,7 @@ Rien a signaler
 
 # Zone P
 
-1. L'étagère P13 n'existe pas.
+1. Le label P13 n'existe pas.
 2. Il y a une étagère P11 et un espace de stockage de masse par terre le long du mur également nommé P11, très espacés l'un de l'autre.
 3. Il y a deux étagères nommées P12. Une des étagères a des racks labellisés, pas l'autre.
 4. L'étagère P14 est très loin des autres.
