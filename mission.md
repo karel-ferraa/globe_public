@@ -43,7 +43,7 @@ Renommer les emplacements de façon à ce que l'on puisse les chercher directeme
 # Lessons / découvertes
 
 Couple: Force appliquée.
-C'était quoi le nom du logiciel qui fait que de la gestion de stockage? Quelque chose VC à double entrée.
+C'était quoi le nom du logiciel qui fait que de la gestion de stockage? Quelque chose WMS à double entrée.
 
 Chez Lautrette, ils creent des bougies qui servent a filtrer l'oxygene dans les hauts fourneaux. Ces bougies sont envoyées pour être dégraissées chez un partenaire, car l'oxygene sous pression s'enflamme et explose avec la graisse. [./Images/bougie_oxygene.jpg]
 

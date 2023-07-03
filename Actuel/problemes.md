@@ -80,3 +80,8 @@ Stockage de masse non labellisé
 # Zone BR03
 
 Stockage de masse non labellisé
+
+# Zone AA
+
+1. Sur la mezzanine, il y a des placards non labellisés.
+2. Du stockage est posé devant les placards non labellisés, empêchant leur accès.
