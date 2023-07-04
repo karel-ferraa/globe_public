@@ -19,6 +19,7 @@ Parfois il y a trois représentations différentes. La realité physique, la fa�
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges.
 Ajouter les murs du premier étage.
 Augmenter la précision du plan: on peut notamment voir des erreurs au niveau du R01, cette etagere devrait etre plus proche du mur.
+A00: remesurer la largeur
 
 Zone M - Mesurer et ajouter le M10
 
