@@ -1,4 +1,6 @@
-# IL FAUT ABOLIR LE STOCKAGE PAR CATÉGORIE
+# Contexte
+
+Actuellement, les objets sont rangés par catégorie.
 
 Le stockage par catégorie a les conséquences suivantes:
 - Un exemple simple: j'ai un petit objet Bosch à placer. L'étagère Bosch ne contient que des grands emplacements. L'étagère Siemens ne contient que des petits emplacements. Je ne peut pas stocker mon petit objet Bosch dans l'étagère Siemens parce que ce n'est pas la bonne catégorie. Certaines étagères manquent de place tandis que d'autres sont vides.
@@ -19,7 +21,9 @@ Le choix 2. engendre les problèmes suivants:
 - Les étiquettes ne sont pas forcémment enlevés une fois que le stock est épuisé et donc il reste des étiquettes trompeuses ou qui n'indiquent rien.
 
 Le résultat de la non-optimisation du stockage est de la frustration et de la perte de temps pour les employés et un ralentissement des opérations de vente qui sont parfois mises en attente faute de stockage disponible pour passer les commandes.
-Par exemple, le manque de stockage entraine parfois Alain, qui travaille en zone AA sur la fabrication de filtres à descendre des filtres de la mezzanine vers un espace de stockage temporaire au sol avant de les remonter pour appliquer une deuxième étape de fabrication des filtres.
+Par exemple, le manque de stockage entraine parfois Alain, qui travaille sur la mezzanine de l'actuelle zone AA sur la fabrication de filtres à descendre des filtres de la mezzanine vers un espace de stockage temporaire au sol avant de les remonter pour appliquer une deuxième étape de fabrication des filtres.
+
+Le constat est clair, il ne faut plus stocker par catégorie.
 
 ## Note sur les mesures
 

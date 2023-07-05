@@ -10,10 +10,6 @@ Actuellement, les Objets sont rangés par catégorie. Meme problème que pour l'
 
 Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les emplacements sur le plan. Peut etre utiliser des assets pour les etageres sur le plan, rajouter les escaliers, mieux modeliser l'entrepot avec le toit en pente ect...
 
-# Problèmes
-
-Parfois il y a trois représentations différentes. La realité physique, la façon dont c'est labelisé et les préconisations.
-
 # Ce qu'il reste à faire
 
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges.
@@ -31,20 +27,20 @@ Régulariser la zone P.
 
 Noter quelles etageres qui sont déplaçables.
 
+Noter les dimensions max des etiquettes pour chaque étagère.
+
+Une fois les préconisations faites, il faudra ajouter les emplacements dans Syllobe, via importation d'un fichier csv.
+
 ## Plan
 
-Ajouter les murs et augmenter la précision du placement des espaces de stockage.
+Ajouter les murs.
 Ajouter les racks sur le plan. Cela veut dire qu'il faudra séparer les labels qui ont plusieurs etageres.
 Utiliser des assets pour que l'on puisse visuellement distinguer les types d'espaces de stockage.
-
-## Database
-
-Renommer les emplacements de façon à ce que l'on puisse les chercher directement: Emplacement 01 -> A01 voir meme A01A01
 
 # Lessons / découvertes
 
 Couple: Force appliquée.
-C'était quoi le nom du logiciel qui fait que de la gestion de stockage? Quelque chose WMS à double entrée.
+Logiciels de gestion de magasin.
 
 Chez Lautrette, ils creent des bougies qui servent a filtrer l'oxygene dans les hauts fourneaux. Ces bougies sont envoyées pour être dégraissées chez un partenaire, car l'oxygene sous pression s'enflamme et explose avec la graisse. [./Images/bougie_oxygene.jpg]
 

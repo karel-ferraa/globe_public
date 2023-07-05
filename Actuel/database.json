@@ -51167,6 +51167,17 @@
 						"Nombre de boites": valeur,
 						"Racks": [
 						]
+					},
+					"Sans label 02": {
+						"type": "etagere simple",
+						"Longueur": 3.02,
+						"Largeur": 0.63,
+						"Hauteur": 2.44,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Racks": [
+						]
 					}
 				]
 			},
@@ -51420,19 +51431,6 @@
 								]
 							}
 						]
-					},
-					"Transit": {
-						"type": "stockage masse",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
-						"Surface": valeur,
-						"Volume": valeur,
-						"Occupation": valeur,
-						"Nombre de boites": valeur,
-						"Racks": [
-							valeur
-						]
 					}
 				]
 			},
@@ -51445,50 +51443,167 @@
 				"Espaces de stockage": [
 					"BB01": {
 						"type": "etagere simple",
-						"Longueur": valeur,
-						"Largeur": valeur,
+						"Longueur": 1,10,
+						"Largeur": 5.73,
 						"Hauteur": valeur,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 1,10,
+								"Largeur": 2.69,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							},
+							"Rack B": {
+								"Longueur": 1,10,
+								"Largeur": 2.69,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							}
 						]
 					},
 					"BB02": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
+						"Longueur": 1,29,
+						"Largeur": 8.52,
 						"Hauteur": valeur,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 1,29,
+								"Largeur": 2.69,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							},
+							"Rack B": {
+								"Longueur": 1,29,
+								"Largeur": 3.59,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							},
+							"Rack C": {
+								"Longueur": 1,29,
+								"Largeur": 2.69,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							}
 						]
 					},
 					"BB03": {
 						"type": "etagere double",
-						"Longueur": valeur,
-						"Largeur": valeur,
+						"Longueur": 1.29,
+						"Largeur": 7.62,
 						"Hauteur": valeur,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 1.29,
+								"Largeur": 2.69,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							},
+							"Rack B": {
+								"Longueur": 1.29,
+								"Largeur": 2.69,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							},
+							"Rack C": {
+								"Longueur": 1.29,
+								"Largeur": 2.69,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							}
 						]
 					},
 					"BB04": {
 						"type": "etagere simple",
-						"Longueur": valeur,
-						"Largeur": valeur,
+						"Longueur": 9.40,
+						"Largeur": 1.10,
 						"Hauteur": valeur,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
 						"Racks": [
-							valeur
+							"Rack A": {
+								"Longueur": 3.59,
+								"Largeur": 1.10,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							},
+							"Rack B": {
+								"Longueur": 3.59,
+								"Largeur": 1.10,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							},
+							"Rack C": {
+								"Longueur": 1.79,
+								"Largeur": 1.10,
+								"Hauteur": valeur
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									valeur
+								]
+							}
 						]
 					}
 				]
