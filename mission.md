@@ -12,6 +12,7 @@ Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les empl
 
 # Ce qu'il reste à faire
 
+Zone BB Zone AA mesurer les hauteurs. Pour ça il faut la grande échelle qui est dans le sous-sol. Pour monter l'échelle il faut que quelqu'un m'aide.
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges.
 Ajouter les murs du premier étage.
 Augmenter la précision du plan: on peut notamment voir des erreurs au niveau du R01, cette etagere devrait etre plus proche du mur.

@@ -51443,8 +51443,8 @@
 				"Espaces de stockage": [
 					"BB01": {
 						"type": "etagere simple",
-						"Longueur": 1,10,
-						"Largeur": 5.73,
+						"Longueur": 5.73,
+						"Largeur": 1.10,
 						"Hauteur": valeur,
 						"Surface": valeur,
 						"Volume": valeur,
@@ -51476,8 +51476,8 @@
 					},
 					"BB02": {
 						"type": "etagere double",
-						"Longueur": 1,29,
-						"Largeur": 8.52,
+						"Longueur": 8.52,
+						"Largeur": 1.29,
 						"Hauteur": valeur,
 						"Surface": valeur,
 						"Volume": valeur,
@@ -51520,8 +51520,8 @@
 					},
 					"BB03": {
 						"type": "etagere double",
-						"Longueur": 1.29,
-						"Largeur": 7.62,
+						"Longueur": 7.62,
+						"Largeur": 1.29,
 						"Hauteur": valeur,
 						"Surface": valeur,
 						"Volume": valeur,
@@ -51564,8 +51564,8 @@
 					},
 					"BB04": {
 						"type": "etagere simple",
-						"Longueur": 9.40,
-						"Largeur": 1.10,
+						"Longueur": 1.10,
+						"Largeur": 9.40,
 						"Hauteur": valeur,
 						"Surface": valeur,
 						"Volume": valeur,
