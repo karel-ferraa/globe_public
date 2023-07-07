@@ -12,6 +12,8 @@ Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les empl
 
 # Ce qu'il reste à faire
 
+Remesurer les hauteurs des emplacements zone BB il ne faut pas inclure la taille des pallettes puisque celles-ci sont déplacées avec l'objet.
+Zone BB il faut tenir compte des poutres qui sont une contrainte pour les emplacements du haut.
 Zone BB Zone AA mesurer les hauteurs. Pour ça il faut la grande échelle qui est dans le sous-sol. Pour monter l'échelle il faut que quelqu'un m'aide.
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges.
 Ajouter les murs du premier étage.
