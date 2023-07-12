@@ -34,9 +34,10 @@ Noter les dimensions max des etiquettes pour chaque étagère.
 
 Une fois les préconisations faites, il faudra ajouter les emplacements dans Syllobe, via importation d'un fichier csv.
 
+Constat: Dans Sylobe actuellement c'est rangé par référence. On peut chercher une référence et voir son emplacement. Mais si on ne stocke plus par catégorie, c'est à chaque objet qu'il faut assigner un emplacement. Non, pas forcemment, on peut avoir un emplacement par référence mais les références ne se suivent pas.
+
 ## Plan
 
-Ajouter les murs.
 Ajouter les racks sur le plan. Cela veut dire qu'il faudra séparer les labels qui ont plusieurs etageres.
 Utiliser des assets pour que l'on puisse visuellement distinguer les types d'espaces de stockage.
 
