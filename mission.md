@@ -12,18 +12,17 @@ Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les empl
 
 # Ce qu'il reste à faire
 
+En A il faut séparer l'actuel A08A en deux placards. 
 Remesurer les hauteurs des emplacements zone BB il ne faut pas inclure la taille des pallettes puisque celles-ci sont déplacées avec l'objet.
+Zone BB mesurer les hauteurs. Pour ça il faut la grande échelle qui est dans le sous-sol. Pour monter l'échelle il faut que quelqu'un m'aide.
 Zone BB il faut tenir compte des poutres qui sont une contrainte pour les emplacements du haut.
-Zone BB Zone AA mesurer les hauteurs. Pour ça il faut la grande échelle qui est dans le sous-sol. Pour monter l'échelle il faut que quelqu'un m'aide.
-A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges.
-Ajouter les murs du premier étage.
-Augmenter la précision du plan: on peut notamment voir des erreurs au niveau du R01, cette etagere devrait etre plus proche du mur.
+A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges. La salle au 1er etage fermée. Le sous-sol pres du monte-charges fermé. Le sous-sol au fond fermé.
 A00: remesurer la largeur
+Ajouter portes, escaliers, barrierres. Ajouter la mezzanine et sa hauteur zone M, N.
 
 Zone M - Mesurer et ajouter le M10
 
 Ajouter les préconisations. Il y a pleins de racks a relabelliser ect...
-En A il faut séparer l'actuel A08A en deux placards. 
 
 Séparer les labels qui ont plusieurs etageres en plusieurs entrées, comme ça on peut avoir les valeurs de longueur largeur hauteur plus accurate. Soit ça soit on rentre dans le detail sur le plan avec les racks et les emplacements.
 Régulariser la zone P.
@@ -33,6 +32,10 @@ Noter quelles etageres qui sont déplaçables.
 Noter les dimensions max des etiquettes pour chaque étagère.
 
 Une fois les préconisations faites, il faudra ajouter les emplacements dans Syllobe, via importation d'un fichier csv.
+
+Faire un beau rapport récapitulatif du travail fait avec de la doc, des stats sur le stockage et des préconisations.
+
+Demander à Eric si je peux récupérer un des vieux pc en haut.
 
 Constat: Dans Sylobe actuellement c'est rangé par référence. On peut chercher une référence et voir son emplacement. Mais si on ne stocke plus par catégorie, c'est à chaque objet qu'il faut assigner un emplacement. Non, pas forcemment, on peut avoir un emplacement par référence mais les références ne se suivent pas.
 

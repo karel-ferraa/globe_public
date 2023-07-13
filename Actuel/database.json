@@ -52872,18 +52872,6 @@
 					},
 					"Sans label 23": {
 						"type": "stockage pallettes",
-						"Longueur": 1.10,
-						"Largeur": 5.30,
-						"Hauteur": 1.16,
-						"Surface": valeur,
-						"Volume": valeur,
-						"Occupation": valeur,
-						"Nombre de pallettes": 3,
-						"Racks": [
-						]
-					},
-					"Sans label 24": {
-						"type": "stockage pallettes",
 						"Longueur": 10.00,
 						"Largeur": 2.70,
 						"Hauteur": 1.82,
@@ -52894,7 +52882,7 @@
 						"Racks": [
 						]
 					},
-					"Sans label 25": {
+					"Sans label 24": {
 						"type": "stockage pallettes",
 						"Longueur": 6.60,
 						"Largeur": 2.34,
@@ -52906,7 +52894,7 @@
 						"Racks": [
 						]
 					},
-					"Sans label 26": {
+					"Sans label 25": {
 						"type": "etagere simple",
 						"Longueur": 0.32,
 						"Largeur": 3.63,
@@ -53245,7 +53233,7 @@
 							}
 						]
 					},
-					"Sans label 27": {
+					"Sans label 26": {
 						"type": "etagere simple",
 						"Longueur": 0.79,
 						"Largeur": 2.17,
@@ -53324,7 +53312,7 @@
 							}
 						]
 					},
-					"Sans label 28": {
+					"Sans label 27": {
 						"type": "etagere simple",
 						"Longueur": 0.50,
 						"Largeur": 2.54,
@@ -53467,7 +53455,7 @@
 							}
 						]
 					},
-					"Sans label 29": {
+					"Sans label 28": {
 						"type": "etagere simple",
 						"Longueur": 1.25,
 						"Largeur": 0.50,
@@ -53536,11 +53524,11 @@
 							}
 						]
 					},
-					"Sans label 30": {
+					"Sans label 29": {
 						"type": "stockage pallettes",
 						"Longueur": 3.22,
 						"Largeur": 5.80,
-						"Hauteur": valeur,
+						"Hauteur": 2.43,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
@@ -53548,11 +53536,11 @@
 						"Racks": [
 						]
 					},
-					"Sans label 31": {
+					"Sans label 30": {
 						"type": "etagere simple",
 						"Longueur": 0.60,
 						"Largeur": 5.03,
-						"Hauteur": valeur,
+						"Hauteur": 2.00,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
@@ -53687,11 +53675,11 @@
 							}
 						]
 					},
-					"Sans label 32": {
+					"Sans label 31": {
 						"type": "stockage pallettes",
 						"Longueur": 4.52,
 						"Largeur": 4.00,
-						"Hauteur": valeur,
+						"Hauteur": 2.25,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
@@ -53699,15 +53687,15 @@
 						"Racks": [
 						]
 					},
-					"Sans label 33": {
+					"Sans label 32": {
 						"type": "etagere simple",
 						"Longueur": 5.03,
 						"Largeur": 0.60,
-						"Hauteur": valeur,
+						"Hauteur": 2.00,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
-						"Nombre de boites": valeur,
+						"Nombre de pallettes": valeur,
 						"Racks": [
 							"Rack A": {
 								"Longueur": 1.22,
@@ -53847,7 +53835,7 @@
 							}
 						]
 					},
-					"Sans label 34": {
+					"Sans label 33": {
 						"type": "etagere simple",
 						"Longueur": 1.30,
 						"Largeur": 0.41,
