@@ -13,12 +13,15 @@ Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les empl
 # Ce qu'il reste à faire
 
 En A il faut séparer l'actuel A08A en deux placards. 
-Remesurer les hauteurs des emplacements zone BB il ne faut pas inclure la taille des pallettes puisque celles-ci sont déplacées avec l'objet.
-Zone BB mesurer les hauteurs. Pour ça il faut la grande échelle qui est dans le sous-sol. Pour monter l'échelle il faut que quelqu'un m'aide.
-Zone BB il faut tenir compte des poutres qui sont une contrainte pour les emplacements du haut.
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges. La salle au 1er etage fermée. Le sous-sol pres du monte-charges fermé. Le sous-sol au fond fermé.
 A00: remesurer la largeur
+S'assurer que on ne compte pas les emplacements au dessus des etageres.
+Peut-etre remesurer certains emplacements qui ont des contraintes spéciales, par exemple ceux avec une poutre qui passe au milieu.
+Ajouter la collection sécurité.
 Ajouter portes, escaliers, barrierres. Ajouter la mezzanine et sa hauteur zone M, N.
+Ajouter des modèles pour distinguer visuellement les etageres des emplacements de stockage de masse / pallettes.
+Ajouter le détail des racks et des emplacements.
+Ajouter de la texture. (peut-etre en prenant des photos avec mon téléphone)
 
 Zone M - Mesurer et ajouter le M10
 
