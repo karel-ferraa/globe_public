@@ -54244,6 +54244,90 @@
 								]
 							}
 						]
+					},
+					"Sans label 34": {
+						"type": "etagere simple",
+						"Longueur": 0.35,
+						"Largeur": 0.95,
+						"Hauteur": 1.95,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Racks": [
+							valeur
+						]
+					},
+					"Sans label 35": {
+						"type": "etagere simple",
+						"Longueur": 1.20,
+						"Largeur": 0.29,
+						"Hauteur": 1.20,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Racks": [
+							valeur
+						]
+					},
+					"Sans label 36": {
+						"type": "etagere simple",
+						"Longueur": 0.98,
+						"Largeur": 0.42,
+						"Hauteur": 2.10,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Racks": [
+							valeur
+						]
+					},
+					"Sans label 37": {
+						"type": "etagere simple",
+						"Longueur": 0.56,
+						"Largeur": 1.18,
+						"Hauteur": 2.15,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Racks": [
+							valeur
+						]
+					},
+					"Sans label 38": {
+						"type": "etagere simple",
+						"Longueur": 1.28,
+						"Largeur": 0.64,
+						"Hauteur": 2.44,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Racks": [
+							valeur
+						]
+					},
+					"Sans label 39": {
+						"type": "etagere simple",
+						"Longueur": 1.28,
+						"Largeur": 0.42,
+						"Hauteur": 2.52,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Racks": [
+							valeur
+						]
+					},
+					"Sans label 40": {
+						"type": "etagere simple",
+						"Longueur": 0.42,
+						"Largeur": 1.28,
+						"Hauteur": 2.52,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Racks": [
+							valeur
+						]
 					}
 				]
 			}
