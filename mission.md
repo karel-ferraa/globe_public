@@ -12,7 +12,6 @@ Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les empl
 
 # Ce qu'il reste à faire
 
-Faire correspondre la hauteur du sous-sol.
 Ajouter la collection sécurité.
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges. La salle au 1er etage fermée. Le sous-sol pres du monte-charges fermé. Le sous-sol au fond fermé.
 Zone M - Mesurer et ajouter le M10
