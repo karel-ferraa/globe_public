@@ -51965,16 +51965,101 @@
 				"Occupation": valeur,
 				"Espaces de stockage": [
 					"Sans label 01": {
-						"type": "stockage masse",
-						"Longueur": valeur,
-						"Largeur": valeur,
-						"Hauteur": valeur,
+						"type": "stockage pallettes",
+						"Longueur": 0.84,
+						"Largeur": 6.90,
+						"Hauteur": 1.24,
 						"Surface": valeur,
 						"Volume": valeur,
 						"Occupation": valeur,
-						"Nombre de boites": valeur,
+						"Nombre de pallettes": 7,
 						"Racks": [
-							valeur
+						]
+					},
+					"Sans label 02": {
+						"type": "stockage pallettes",
+						"Longueur": 0.84,
+						"Largeur": 0.92,
+						"Hauteur": 1.10,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Nombre de pallettes": 1,
+						"Racks": [
+						]
+					}
+				]
+			},
+			"Zone Transit": {
+				"Longueur": valeur,
+				"Largeur": valeur,
+				"Surface": valeur,
+				"Volume": valeur,
+				"Occupation": valeur,
+				"Espaces de stockage": [
+					"Sans label 01": {
+						"type": "stockage pallettes",
+						"Longueur": valeur,
+						"Largeur": valeur,
+						"Hauteur": 0.96,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Nombre de pallettes": 9,
+						"Racks": [
+						]
+					},
+					"Sans label 02": {
+						"type": "etagere simple",
+						"Longueur": 0.49,
+						"Largeur": 1.32,
+						"Hauteur": 2.00,
+						"Surface": valeur,
+						"Volume": valeur,
+						"Occupation": valeur,
+						"Racks": [
+							"Rack A": {
+								"Longueur": 0.49,
+								"Largeur": 1.25,
+								"Hauteur": 2.00,
+								"Surface": valeur,
+								"Volume": valeur,
+								"Occupation": valeur,
+								"Emplacements de stockage": [
+									"Emplacement 01": {
+										"Longueur": 0.49,
+										"Largeur": 1.25,
+										"Hauteur": 0.52,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 02": {
+										"Longueur": 0.49,
+										"Largeur": 1.25,
+										"Hauteur": 0.41,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 03": {
+										"Longueur": 0.49,
+										"Largeur": 1.25,
+										"Hauteur": 0.40,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									},
+									"Emplacement 04": {
+										"Longueur": 0.49,
+										"Largeur": 1.25,
+										"Hauteur": 0.50,
+										"Surface": valeur,
+										"Volume": valeur,
+										"Occupation": valeur
+									}
+								]
+							}
 						]
 					}
 				]
