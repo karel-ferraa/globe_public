@@ -12,11 +12,11 @@ Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les empl
 
 # Ce qu'il reste à faire
 
+Faire correspondre la hauteur du sous-sol.
 Ajouter la collection sécurité.
 A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges. La salle au 1er etage fermée. Le sous-sol pres du monte-charges fermé. Le sous-sol au fond fermé.
 Zone M - Mesurer et ajouter le M10
 Ajouter les préconisations. Il y a pleins de racks a relabelliser ect...
-Séparer les labels qui ont plusieurs etageres en plusieurs entrées, comme ça on peut avoir les valeurs de longueur largeur hauteur plus accurate. Soit ça soit on rentre dans le detail sur le plan avec les racks et les emplacements.
 Noter les dimensions max des etiquettes pour chaque étagère.
 S'assurer que on ne compte pas les emplacements au dessus des etageres.
 
