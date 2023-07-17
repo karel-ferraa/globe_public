@@ -12,24 +12,20 @@ Il faudrait ensuite ajouter du détail en ajoutant les racks et ensuite les empl
 
 # Ce qu'il reste à faire
 
-Ajouter les etageres des espaces de stockage perdus au fond du sous-sol.
-A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges. La salle au 1er etage fermée. Le sous-sol pres du monte-charges fermé. Le sous-sol au fond fermé.
-S'assurer que on ne compte pas les emplacements au dessus des etageres.
-Peut-etre remesurer certains emplacements qui ont des contraintes spéciales, par exemple ceux avec une poutre qui passe au milieu.
 Ajouter la collection sécurité.
-Ajouter portes, escaliers, barrierres. Ajouter la mezzanine et sa hauteur zone M, N.
-Ajouter des modèles pour distinguer visuellement les etageres des emplacements de stockage de masse / pallettes.
-Ajouter le détail des racks et des emplacements.
-Ajouter de la texture. (peut-etre en prenant des photos avec mon téléphone)
-Noter quelles etageres qui sont déplaçables.
-
+A8A: les racks et emplacements. Le placard est fermé, il faut demander les clées pour ouvrir -> Georges. La salle au 1er etage fermée. Le sous-sol pres du monte-charges fermé. Le sous-sol au fond fermé.
 Zone M - Mesurer et ajouter le M10
-
 Ajouter les préconisations. Il y a pleins de racks a relabelliser ect...
 Séparer les labels qui ont plusieurs etageres en plusieurs entrées, comme ça on peut avoir les valeurs de longueur largeur hauteur plus accurate. Soit ça soit on rentre dans le detail sur le plan avec les racks et les emplacements.
-Régulariser la zone P.
-
 Noter les dimensions max des etiquettes pour chaque étagère.
+S'assurer que on ne compte pas les emplacements au dessus des etageres.
+
+Peut-etre remesurer certains emplacements qui ont des contraintes spéciales, par exemple ceux avec une poutre qui passe au milieu.
+Ajouter portes, escaliers, barrierres. Ajouter la mezzanine et sa hauteur zone M, N.
+Ajouter le détail des racks et des emplacements.
+Ajouter de la texture. (peut-etre en prenant des photos avec mon téléphone)
+Ajouter des modèles pour distinguer visuellement les etageres des emplacements de stockage de masse / pallettes.
+Noter quelles etageres qui sont déplaçables.
 
 Une fois les préconisations faites, il faudra ajouter les emplacements dans Syllobe, via importation d'un fichier csv.
 
