@@ -10,32 +10,37 @@
 
 # Zone B
 
-1. Les labels B01...B05 n'existent pas, le premier label est la B06.
+1. Les labels B01...B05 n'existent pas, le premier label est le B06.
 2. Les labels B07...B12 n'existent pas, on passe du B06 au B13.
 3. Les pallettes ne sont pas labellisées.
-4. Des pallettes sont posées devant B15, bloquant l'acces aux étagères.
+4. Des pallettes sont posées devant B15, bloquant l'acces aux emplacements de stockage.
 
 # Zone C
 
-Stockage de masse non labellisé
+1. Stockage de masse non labellisé contre le mur.
 
 # Zone D
 
 1. D10 les racks ne sont pas labellisés. De plus, des boites sont posées devant une porte et bloquent son accès.
 2. Les racks des étagères D11 à D19 commencent par le H ou J alors qu'ils devraient commencer par le rack A.
 3. D20 les racks ne sont pas labellisées.
+4. Etagere sans label trouvée près de D10.
 
 # Zone E
 
-Rien a signaler
+1. Stockage pallettes non labellisé. Il n'y a pas non plus de racks pour le stockage pallette.
 
-# Zone F
+# Zone RST
 
-Rien a signaler
+1. Stockage de masse non labellisé.
 
 # Zone G
 
 Rien a signaler
+
+# Zone Réparations
+
+1. Etagères sans labels.
 
 # Zone L
 
@@ -75,13 +80,45 @@ Rien a signaler (Stockage de masse carton)
 
 # Zone BR02
 
-Stockage de masse non labellisé
+1. Etagere non labellisée.
+2. Stockage de masse non labellisé.
 
 # Zone BR03
 
-Stockage de masse non labellisé
+1. Stockage de masse non labellisé.
 
-# Zone AA
+# Zone SAV
 
-1. Sur la mezzanine, il y a des placards non labellisés.
-2. Du stockage est posé devant les placards non labellisés, empêchant leur accès.
+1. Etageres non labellisées.
+2. Stockage de masse non labellisé.
+
+# Zone AA01
+
+1. Espaces de stockages non labellisés
+2. Du stockage est parfois posé devant les placards non labellisés, empêchant leur accès.
+
+# Zone AA02
+
+1. Espaces de stockages non labellisés
+
+# Zone BB
+
+Rien a signaler
+
+# Zone Couloir Expédition
+
+1. Il ne devrait pas y avoir de stockage dans un couloir.
+
+# Zone Transit
+
+Rien a signaler
+
+# Zone Sous-sol
+
+1. Il n'y a aucun label.
+2. Des pallettes sont posées à des endroits qui ne sont pas facillement accessibles par les gerbeurs ou qui entravent l'accès aux étagères.
+3. Il y a un espace de stockage de masse a coté du monte charge.
+
+# Zone Dehors
+
+1. Il n'y a aucun label.
